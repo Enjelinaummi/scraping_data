@@ -1,2 +1,2 @@
 # scraping_data
-scraping_data untuk tugas 10
+Melakukan Scraping data dari website female daily untuk memenuhi tugas 10
